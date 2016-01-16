@@ -1,6 +1,6 @@
 # Stop arguing so much with your mixins
 
-Mixins are arguably one of the more widely used tools in the Sass language next to the variable. Coming with that, mixins are more apt to be the most abused tool in the language. Mixins are extremely powerful and capable of doing a great number of things, but as we are creating these massive bodies of complex code, it's easy to find ourselves in a place where we have too many arguments in order to use our mixin. It's at this point we have started to lose comprehension of what's happening. The complexity of the tool starts to outweigh it's value.
+Mixins are arguably one of the more widely used tools in the Sass language next to the variable. Coming with that, mixins are more apt to be the most abused tool in the language. Mixins are extremely powerful and capable of doing a great number of things, but as we are creating these massive bodies of complex code, it's easy to find ourselves in a place where we have too many arguments in order to use our mixin. It's at this point we have started to lose comprehension of what's happening. The complexity of the tool starts to outweigh its value.
 
 Recently in refactoring a mixin with too many arguments, I began to think of how I could use list-maps to solve this issue. 
 
